@@ -1,6 +1,3 @@
-
-
-
 name_file = open("/Users/mac/Documents/nameFile.txt", "r");
 text = name_file.read().split();
 first_name = text[0];
